@@ -1,6 +1,8 @@
 # Hackathon-By-Boad-Infinity-
 
+
 Achievents:-
+
 Winner Of The Tableau Hackathon That was conducted by Board infinity.
 
 
@@ -9,6 +11,7 @@ EXCEL HACKATHON PROBLEM STATEMENT:-
 
 ECOMMERCE DATA ANALYSIS AND VISUALIZATION  ( 541910 rows * 14 Columns )
 Datamatics Ltd sells unique all-occasion gifts and other items to customers. Many customers of the company are wholesalers. This is a data set from a UK-based company. This data set contains all the transactions occurring between 01/12/2010 and 09/12/2011. The goal of this hackathon is to visualize the sales of this company.As it is a growing company,they want to know their annual sales and their customers. Below are the details of the dataset. 
+
 VariableName - Description
 InvoiceNo: Unique ID to identify each Invoice
 StockCode: Unique ID for each item in stock
@@ -19,10 +22,13 @@ Customer ID: Unique ID for each customer
 Country The country were the costumer live
 
 
+
+
 Tableau HACKATHON PROBLEM STATEMENT:-
 
 IPL DATA VISUALIZATION
 BCCI wants to understand the performance of cricket of every team. Design the dashboard which clearly explains about cricket match, performance of players, outcome of match and every single factor which is responsible for the match like venue, toss, captain’s performance,individual’s performance etc over the years.
+
 
 
 
